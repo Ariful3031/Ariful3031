@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ariful Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-![github cover] (<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/e6da4cdf-cdfb-4d4a-927e-17a818731558" />)
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/e6da4cdf-cdfb-4d4a-927e-17a818731558" />
 
 <h3 align="left">About Me:</h3>
 Hi there! I'm <b>Ariful Islam Badol</b>. I'm a passionate Software Developer with a strong focus on <b>Mern Stack Development</b>. I love sharing what I know teaching. If you want to learn more about what I do, you can follow me. Outside of coding, I enjoy <b>Articles</b>.
